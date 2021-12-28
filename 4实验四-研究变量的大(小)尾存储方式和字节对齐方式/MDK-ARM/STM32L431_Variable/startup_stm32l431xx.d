@@ -1,0 +1,1 @@
+stm32l431_variable\startup_stm32l431xx.o: startup_stm32l431xx.s
